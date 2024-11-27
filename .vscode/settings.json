@@ -1,6 +1,0 @@
-{
-    "yaml.schemas": {
-        "file:///home/arifkhan/.vscode/extensions/docsmsft.docs-yaml-1.0.5/dist/toc.schema.json": "/toc\\.yml/i",
-        "https://raw.githubusercontent.com/derailed/k9s/master/internal/config/json/schemas/context.json": "file:///home/arifkhan/Downloads/backend_ai_mlops/devops_kubernetes/Kubernetes%20Concepts%20%E2%80%93%20PODs%2C%20ReplicaSets%2C%20Deployments/replicasets/replicasets.yaml"
-    }
-}
